@@ -15,7 +15,7 @@
 **Thoughts:** Sometimes you have to take a step back and concentrate on the basics in order to get to the next level of more sophisticated coding. 
 
 **Link(s) to work:** 
-1. [Click Function](https://github.com/ccania/map-simple.git)
+1. [Click Function - practice work](100-days-of-code/100DaysPractice/clickfunctions.html)
 2. [Places Locator Map](https://github.com/ccania/map-places.git)
 
 
