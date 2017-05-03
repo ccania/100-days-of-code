@@ -1,0 +1,30 @@
+<!--/**
+     * Author: Courtney Cania 
+     */-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>click function</title>
+</head>
+
+<body>
+<p>Button Click example</p>
+    
+<input type="text" id="newTxt" value="Museum of Fine Arts">    
+    
+<button onclick="myFunction()">Click me</button>
+
+<p id="demo">The text in this page updates to what you enter into the field below.</p>
+    
+   
+
+<script>
+function myFunction() {
+    var txt = document.getElementById("newTxt").value;
+    document.getElementById("demo").innerHTML = txt;
+}
+</script>
+</body>
+
+</html>

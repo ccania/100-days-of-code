@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 1, 2017 (Example 1)
+### Day 1: May 1, 2017
 
 **Today's Progress**: I cloned Kallaway's 100 Days of Code repo and will be logging my progress here for the next 100\(!\) days. I worked on expanding my simple map to take an address that is passed via an input field. I have not been able to update the address variable with JavaScript so that it works.   
 
 **Thoughts:** I need to gain more practice in using JavaScript to store information from field elements and calling functions through click events.
 
 **Link to work:** [Simple Map](https://github.com/ccania/map-simple.git)
+
+### Day 2: May 2, 2017 
+
+**Today's Progress**: I worked out a solution in JavaScript to take the value of an input field and print it to an element. I know this is an incredibly basic cornerstone in JavaScript, but it was tripping me up in expanding my [current map project](https://github.com/ccania/map-places.git). Now that I have it figured out, I should be able to use the same logic to allow a user to enter a location into a field for my Google map, and have the map render the location based on a given location. And guess what? IT WORKED! :clap: I ended up calling initMap() from a submit button that passed the value of an input field into a variable that points the map at the given location.   
+
+**Thoughts:** Sometimes you have to take a step back and concentrate on the basics in order to get to the next level of more sophisticated coding. 
+
+**Link(s) to work:** 
+1. [Click Function](https://github.com/ccania/map-simple.git)
+2. [Places Locator Map](https://github.com/ccania/map-places.git)
+
+
 
