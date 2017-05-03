@@ -18,5 +18,14 @@
 1. [Click Function - practice work](100-days-of-code/100DaysPractice/clickfunctions.html)
 2. [Places Locator Map](https://github.com/ccania/map-places.git)
 
+### Day 3: May 3, 2017 
+
+**Today's Progress**: I am working on solving the third practice item in the second chapter of Haverbeke's [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html). I am working on loops within loops, and how to output a specific variable based on if the character position is odd or even. I think I'm close to the solution, but I am struggling to put it all together.
+
+**Thoughts:** If it takes an average of 10,000 hours for mastery, at this rate of an hour a day, I will have something to look forward to on September 18, 2044.
+
+**Link(s) to work:** 
+Nothing to see here
+
 
 
