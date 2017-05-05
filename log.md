@@ -27,5 +27,14 @@
 **Link(s) to work:** 
 Nothing to see here
 
+### Day 4: May 4, 2017 
+
+**Today's Progress**: I worked some more on solving part 1 of Haverbeke's Chess Board problem. In this problem I am to create and 8X8 grid in which the odd rows are offset by a space, and each row contains a pattern of alternating hashes and spaces. I have conceived that the solution involves a loop within a loop, where the outer loop prints out an 8 character line, and the inner loop prints a string of 8 characters, alternating between a space and a hash. I found a very helpful code example of how nested loops operate and used this code as a framework for my solution. The challenge that I am encountering is that my solution works okay when I used document.write, plus HTML for line breaks and spaces, but when I console log, my output is all on individual lines. I'm hoping that that is the result of a setting in Chrome Dev Tools. Take a look at my [Chess Board solution](100-days-of-code/100DaysPractice/chessboard.html) in process.
+
+**Thoughts:** Sometimes what seems impossible is less so once you try. I am going to continue working through Eloquent Javascript between larger projects. 
+
+**Link to work:**
+[Chess Board](100-days-of-code/100DaysPractice/chessboard.html)
+
 
 
