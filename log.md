@@ -15,7 +15,7 @@
 **Thoughts:** Sometimes you have to take a step back and concentrate on the basics in order to get to the next level of more sophisticated coding. 
 
 **Link(s) to work:** 
-1. [Click Function - practice work](100-days-of-code/100DaysPractice/clickfunctions.html)
+1. [Click Function - practice work](https://github.com/ccania/100-days-of-code/blob/ee8575c69e0b52f12e21d9ca3e0f98a4ddfe7641/100DaysPractice/clickfunctions.html)
 2. [Places Locator Map](https://github.com/ccania/map-places.git)
 
 ### Day 3: May 3, 2017 
@@ -29,12 +29,12 @@ Nothing to see here
 
 ### Day 4: May 4, 2017 
 
-**Today's Progress**: I worked some more on solving part 1 of Haverbeke's Chess Board problem. In this problem I am to create and 8X8 grid in which the odd rows are offset by a space, and each row contains a pattern of alternating hashes and spaces. I have conceived that the solution involves a loop within a loop, where the outer loop prints out an 8 character line, and the inner loop prints a string of 8 characters, alternating between a space and a hash. I found a very helpful code example of how nested loops operate and used this code as a framework for my solution. The challenge that I am encountering is that my solution works okay when I used document.write, plus HTML for line breaks and spaces, but when I console log, my output is all on individual lines. I'm hoping that that is the result of a setting in Chrome Dev Tools. Take a look at my [Chess Board solution](100-days-of-code/100DaysPractice/chessboard.html) in process.
+**Today's Progress**: I worked some more on solving part 1 of Haverbeke's Chess Board problem. In this problem I am to create and 8X8 grid in which the odd rows are offset by a space, and each row contains a pattern of alternating hashes and spaces. I have conceived that the solution involves a loop within a loop, where the outer loop prints out an 8 character line, and the inner loop prints a string of 8 characters, alternating between a space and a hash. I found a very helpful code example of how nested loops operate and used this code as a framework for my solution. The challenge that I am encountering is that my solution works okay when I used document.write, plus HTML for line breaks and spaces, but when I console log, my output is all on individual lines. I'm hoping that that is the result of a setting in Chrome Dev Tools. Take a look at my [Chess Board solution](https://github.com/ccania/100-days-of-code/blob/ee8575c69e0b52f12e21d9ca3e0f98a4ddfe7641/100DaysPractice/chessboard.html) in process.
 
 **Thoughts:** Sometimes what seems impossible is less so once you try. I am going to continue working through Eloquent Javascript between larger projects. 
 
 **Link to work:**
-[Chess Board](100-days-of-code/100DaysPractice/chessboard.html)
+[Chess Board](https://github.com/ccania/100-days-of-code/blob/ee8575c69e0b52f12e21d9ca3e0f98a4ddfe7641/100DaysPractice/chessboard.html)
 
 
 
