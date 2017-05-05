@@ -1,0 +1,49 @@
+<!-- 
+Chess board
+
+Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a “#” character. The characters should form a chess board.
+
+Passing this string to console.log should show something like this:
+
+ # # # #
+# # # #
+ # # # #
+# # # #
+ # # # #
+# # # #
+ # # # #
+# # # #
+When you have a program that generates this pattern, define a variable size = 8 and change the program so that it works for any size, outputting a grid of the given width and height.
+
+Helpful Codecademy lab (Hat tip!)
+for(var i = 0; i < 5; i++) {
+    console.log("outer loop at state: "+i+"\n");
+    for(var p = 0; p < 2; p++){
+        console.log("inner loop at state: "+p);
+        if(p==1){//just adding a newline for readability purpose
+            console.log("\n");
+        }
+    }    
+}
+http://labs.codecademy.com/BJwV#:workspace
+-->
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script>
+        for (var i = 0; i < 8; i++) {
+            document.write("<br>");
+            if (i % 2 === 0) //if even
+                document.write("&nbsp;");
+            for (var p = 0; p < 8; p++) {
+                if (p % 2 === 0)  
+                    document.write("#");
+                if (p % 2 !== 0) 
+                    document.write("&nbsp;");
+            }
+        }
+    </script>
+</body>
+
+</html>
