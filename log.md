@@ -37,4 +37,11 @@ Nothing to see here
 [Chess Board](https://github.com/ccania/100-days-of-code/blob/ee8575c69e0b52f12e21d9ca3e0f98a4ddfe7641/100DaysPractice/chessboard.html)
 
 
+### Day 5: May 5, 2017 
+
+**Today's Progress**: I didn't have much time today, but I reviewed and tested the examples of functions and scope in chapter 3 of [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html).
+
+**Thoughts:** I learned the power of var in setting a variable. I didn't realize that var X = something is different from  x = something. I'm finding that [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html) is great for teaching the nuances of JavaScript.
+
+**Link to work:** Nothing to see here.
 
