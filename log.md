@@ -45,3 +45,11 @@ Nothing to see here
 
 **Link to work:** Nothing to see here.
 
+### Day 6: May 6, 2017 
+
+**Today's Progress**: Tonight I worked on running a geolocation plugin for an app that I am building using Apache Cordova. I'm having a difficult time getting my Android emulator to render the map. I'm not sure if it's my code or the emulator. The code I am using was for a different project and I'm trying to port it into the app. I suspect that there is something small that I have overlooked. The alternative is that I need to set a latitude and longitude in the emulator in a different way. 
+
+**Thoughts:** My next step will be to simplify my code just get the app to print out a latitude and longitude and, for now, disregard plotting a map.
+
+**Link to work:** [Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
+
