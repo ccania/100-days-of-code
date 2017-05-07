@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Include jQuery Mobile stylesheets -->
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <!-- Additional styles-->
+    <link rel="stylesheet" href="css/w3.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/map-styles.css" />
+
+    <!-- Includ the Google Maps API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBaUZnsVL5SJj25Bz4CG0A9eewED7w-V8I" async defer></script>
+
+    <!-- Include the jQuery library -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <!-- Include the jQuery Mobile library -->
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+
+
+    <!-- Include custom JS files -->
+    <!--<script src="js/plugins2.js"></script>-->
+    <script src="js/fade.js"></script>
+
+
+    <script src="cordova.js"></script>
+    <script src="js/index.js"></script>
+
+
+
+
+</head>
+
+<body>
+
+
+    <div id="home" data-role="page">
+
+        <div data-role="header" data-position="fixed">
+            <h1>Home</h1>
+            <nav data-role="navbar" data-iconpos="left">
+                <ul>
+                    <li><a href="#home" class="ui-btn ui-btn-active ui-state-persist" data-icon="home">Home</a></li>
+                    <li><a href="#about" class="ui-btn" data-icon="info">About</a></li>
+                    <li><a href="#photo" class="ui-btn" data-icon="user">Photos</a></li>
+                </ul>
+            </nav>
+        </div>
+        <!-- /header -->
+
+        <div data-role="main" class="ui-content">
+            <p>Hello, welcome to my bio app. Testing buttons and testing maps</p>
+            <button id="alertTest">Alert</button>
+            <!--<button id="confirmTest">Confirm</button>
+            <button id="promptTest">Prompt</button>
+            <button id="beepTest">Beep</button>-->
+
+            <div id="location">Your location is...</div>
+            <div id="distance">
+                <p>Distance from Du is</p></div>
+                    <div id="map">
+
+                    </div>
+            </div>
+            <!-- /content -->
+
+            <div data-role="footer" data-position="fixed">
+                <h1>Footer Text</h1>
+            </div>
+            <!-- /footer -->
+
+        </div>
+        <!-- /page -->
+
+        <div id="about" data-role="page">
+
+            <div data-role="header" data-position="fixed">
+                <h1>About</h1>
+                <nav data-role="navbar" data-iconpos="left">
+                    <ul>
+                        <li><a href="#home" class="ui-btn" data-icon="home">Home</a></li>
+                        <li><a href="#about" class="ui-btn ui-btn-active ui-state-persist" data-icon="info">About</a></li>
+                        <li><a href="#photo" class="ui-btn" data-icon="user">Photos</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- /header -->
+
+            <div data-role="main" class="ui-content">
+
+                <div class="w3-card-2">
+                    <header class="w3-container w3-light-grey">
+                        <h1>A Little about Me</h1></header>
+                    <div class="w3-container">
+                        <h5>Life</h5> Courtney is a native of New England, who resides on the border between central Vermont and New Hampshire. She values time with her husband and 2-year-old daughter, and enjoys photography, crafting, running, and learning new things and exploring new places.
+
+                        <h5>Career</h5> Experienced senior web producer with a demonstrated history of working in the higher education industry. Skilled in website project management and redesign, front-end web development, and UX and accessibility principles. Strong developer working toward a master's degree focused in information and communication technology from the University of Denver. </div>
+                    <footer class="w3-container w3-light-grey">&nbsp;
+                    </footer>
+                </div>
+
+            </div>
+            <!-- /content -->
+            <div data-role="footer" data-position="fixed">
+                <h1>Footer Text</h1>
+            </div>
+            <!-- /footer -->
+
+        </div>
+        <!-- /page -->
+
+        <div id="photo" data-role="page">
+
+            <div data-role="header" data-position="fixed">
+                <h1>Photos</h1>
+                <nav data-role="navbar" data-iconpos="left">
+                    <ul>
+                        <li><a href="#home" class="ui-btn" data-icon="home">Home</a></li>
+                        <li><a href="#about" class="ui-btn" data-icon="info">About</a></li>
+                        <li><a href="#photo" class="ui-btn ui-btn-active ui-state-persist" data-icon="user">Photos</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- /header -->
+
+            <div data-role="main" class="ui-content">
+                <div class="w3-card-2">
+                    <header class="w3-container w3-light-grey w3-center">
+                        <h3>Courtney Cania</h3></header>
+
+                    <img src="images/me-penny-carousel.jpg" alt="mom and daughter" style="width: 100%;" class="profPic">
+                    <div class="w3-container w3-center">
+                        <h5>Me and daughter, Penny. September 2016</h5>
+
+                    </div>
+                </div>
+            </div>
+            <!-- /content -->
+
+            <div data-role="footer" data-position="fixed">
+                <h1>Footer Text</h1>
+            </div>
+            <!-- /footer -->
+
+        </div>
+        <!-- /page -->
+
+        <script src="js/plugins.js"></script>
+</body>
+
+</html>
