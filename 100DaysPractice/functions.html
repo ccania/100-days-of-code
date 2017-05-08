@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>functions</title>
+</head>
+<body>
+<script>
+    var x = "outside"; // first local variable, shares name with var in function below. Second variable will be ignored. First instance of duplicate named variable will be used. 
+
+var f1 = function() {
+    var x = "inside f1"; // local to function, will not be called from outside the function because it shares name with above. 
+};
+f1();
+console.log(x);
+// → outside
+
+var f2 = function() {
+   x = "inside f2"; // can be called outside of the function, is global by lack of "var"
+};
+f2();
+console.log(x);
+// → inside f2
+    </script>    
+
+</body>
+</html>

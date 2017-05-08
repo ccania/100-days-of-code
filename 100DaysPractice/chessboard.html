@@ -1,10 +1,11 @@
-<!-- 
-Chess board
+<!--/**
+Author: Courtney Cania
+
+Chess board problem from Eloquent Javascript 
 
 Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a “#” character. The characters should form a chess board.
 
 Passing this string to console.log should show something like this:
-
  # # # #
 # # # #
  # # # #
@@ -26,7 +27,8 @@ for(var i = 0; i < 5; i++) {
     }    
 }
 http://labs.codecademy.com/BJwV#:workspace
--->
+*/-->
+
 <!DOCTYPE html>
 <html>
 
@@ -43,7 +45,24 @@ http://labs.codecademy.com/BJwV#:workspace
                     document.write("&nbsp;");
             }
         }
+        
+//Haverbeke solution        
+        
+var size = 8; // counter
+var board = ""; // output for each line
+
+for (var y = 0; y < size; y++) { //first loop builds lines
+  for (var x = 0; x < size; x++) { // second loop builds string
+    if ((x + y) % 2 == 0) //adds counter and checks if even 
+      board += " "; // even result
+    else
+      board += "#"; //odd result
+  }
+  board += "\n"; //adds break between lines
+}
+
+console.log(board);    
+        
     </script>
 </body>
-
 </html>
