@@ -53,3 +53,13 @@ Nothing to see here
 
 **Link to work:** [Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
 
+### Day 6: May 6, 2017 
+
+**Today's Progress**: I had success with the geolocation plugin for my Cordova app. I simplified the JavaScript and used a solution from [this tutorial](https://www.tutorialspoint.com/cordova/cordova_geolocation.htm). I think the ultimate issue was that I did not have high accuracy turned on within the Android Emulator. Upon turning it on, I was able to push my location information to trigger an alert. 
+
+**Thoughts:** My next step will be to customize my geolocation code to do something more interesting, like plot the device's distance to a specific location. I would like to be able to find my errors faster. 
+
+**Link to work:** 
+1.[Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
+2.[Geolocation running in app (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/geolocation-example.png)
+
