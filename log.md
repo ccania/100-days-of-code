@@ -71,5 +71,8 @@ Nothing to see here
 
 **Links to work:** 
 1. [Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
-2. [Geolocation running in app (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/geolocation-example.png)
+2. [Geolocation map and markers (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/mapmarkers.png)
+3. [Geolocation coordinates and distance (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/coordsanddistance.png)
+4. [Dialog plugin (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/dialogs.png)
+5. [About screen (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/about.png)
 
