@@ -63,3 +63,13 @@ Nothing to see here
 1. [Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
 2. [Geolocation running in app (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/geolocation-example.png)
 
+### Day 8: May 8, 2017 
+
+**Today's Progress**: As a follow-up to yesterday's project, I customized the JavaScript for my geolocation plugin to plot the distance between the device and the coordinates of a restaurant in New Hampshire. The code returns the device's location, calculates the distance in kilometers, and plots a marker for the device and the restaurant on a map. In addition to these changes to geolocation, I moved the navigation to the footer, updated text to the dialogs plugin to something taco-related (sticking to my Mexican restaurant theme), and added a brief restaurant description to the about screen.
+
+**Thoughts:** I would like to next convert kilometers to miles and shorten the latitude and longitude output to three decimal points.
+
+**Links to work:** 
+1. [Cordova App](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
+2. [Geolocation running in app (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/geolocation-example.png)
+
