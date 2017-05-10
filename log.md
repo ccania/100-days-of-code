@@ -76,3 +76,12 @@ Nothing to see here
 4. [Dialog plugin (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/dialogs.png)
 5. [About screen (screenshot)](https://github.com/ccania/100-days-of-code/blob/master/cordova-app/about.png)
 
+### Day 9: May 9, 2017 
+
+**Today's Progress**: I began working through Free Code Camp's front end developer course. I'm nearly done with the HTML5 and CSS part.
+
+**Thoughts:** The first section of the front end developer course is a little mind-numbing for me since I've been working in HTML/CSS for so long. I'm eager to learn new skills. The Bootstrap section will be a good refresher, but I'm most excited for the jQuery and JavaScript portions. No doubt the difficulty level will ratchet up from here.
+
+**Links to work:** 
+Nothing to see here
+
