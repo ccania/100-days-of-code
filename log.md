@@ -85,3 +85,12 @@ Nothing to see here
 **Links to work:** 
 Nothing to see here
 
+### Day 10: May 10, 2017 
+
+**Today's Progress**: I finished up HTML/CSS and Responsive Design with Bootstrap in the Free Code Camp front end developer lineup. Onto jQuery.
+
+**Thoughts:** Yay! I made it 10 days! Looking forward to the jQuery and JavaScript portions of Free Code Camp. My shoulders and neck hurt from couch coding. 
+
+**Links to work:** 
+Nothing to see here
+
