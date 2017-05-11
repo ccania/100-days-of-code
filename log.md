@@ -94,3 +94,13 @@ Nothing to see here
 **Links to work:** 
 Nothing to see here
 
+### Day 11: May 11, 2017 
+
+**Today's Progress**: I took a break from Free Code Camp and built a random color generator which consists of a nested loop that randomly generates a hexadecimal code and changes a div to that color on button click. The program isn't "pretty" yet, but it's functional! First, I built a simple loop that looked at the following string, (the base 16 characters that comprise a Hex code): "0123456789ABCDEF" and created another random six character string from it to produce the hex code. Then, I wondered if maybe each position of the hex code should be created from a random character from the string above, so I created a nested loop in which the inner loop generates one random character from the string above, and the outer loop repeats the process six times.  
+
+**Thoughts:** I'm excited about the color generator, and am going to look around to see if there are other, more elegent ways to create something similar. Next, I will work on adding more sophisticated styling to the generator. 
+
+**Link to work:** 
+1.  [Color Generator](https://github.com/ccania/100-days-of-code/tree/master/color-generator)
+2.  [Try Color Generator in your browser](http://htmlpreview.github.io/?https://github.com/ccania/100-days-of-code/blob/master/color-generator/colorgenerator.html)
+
