@@ -110,5 +110,5 @@ Nothing to see here
 
 **Thoughts:** Materialize is super stylish. I'd like to work more with it. I especially enjoy its button styles, typography, and overall big, bold look. I can envision many ways that I could build out my color generator and allow for filtering by warm and cool palettes, or by mood, season, and other topical categories. It would be interesting to provide the ability to bookmark or save a color in some way, or create an illustration layer to colorize. I can see myself flipping through this just for fun. 
 
-***Link to work:*
+***Link to work:**
 [Styled Color Generator](https://htmlpreview.github.io/?https://github.com/ccania/100-days-of-code/blob/master/color-generator/colorgenerator2.html)
