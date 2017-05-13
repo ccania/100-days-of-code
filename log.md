@@ -104,3 +104,11 @@ Nothing to see here
 1.  [Color Generator](https://github.com/ccania/100-days-of-code/tree/master/color-generator)
 2.  [Try Color Generator in your browser](http://htmlpreview.github.io/?https://github.com/ccania/100-days-of-code/blob/master/color-generator/colorgenerator.html)
 
+### Day 12: May 12, 2017 
+
+**Today's Progress**: I worked on styling my random color generator using Materialize. I added a card with a button to change the color and a styled display for the hexadecimal code which is applied to the page background.
+
+**Thoughts:** Materialize is super stylish. I'd like to work more with it. I especially enjoy its button styles, typography, and overall big, bold look. I can envision many ways that I could build out my color generator and allow for filtering by warm and cool palettes, or by mood, season, and other topical categories. It would be interesting to provide the ability to bookmark or save a color in some way, or create an illustration layer to colorize. I can see myself flipping through this just for fun. 
+
+***Link to work:*
+[Styled Color Generator](https://htmlpreview.github.io/?https://github.com/ccania/100-days-of-code/blob/master/color-generator/colorgenerator2.html)
