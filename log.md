@@ -112,3 +112,18 @@ Nothing to see here
 
 **Link to work:**
 [Styled Color Generator](https://htmlpreview.github.io/?https://github.com/ccania/100-days-of-code/blob/master/color-generator/colorgenerator2.html)
+
+### Day 13: May 13, 2017 
+
+**Today's Progress**: Tonight I worked more on my color generator. I'm working on adding an option to save a color swatch.
+
+**Thoughts:** I became discouraged when I looked online for other ways to create a random color generator using the hexadecimal system. I found (what appears to me) a very efficient and sophisticated way of doing this. The solution is by [Erin Hayming](http://stackoverflow.com/questions/1484506/random-color-generator-in-javascript). I'm reminded that I have SO MUCH TO LEARN. Someone credits Paul Irish in work he has cited on random color generators which I plan to look into as well.
+
+```var color = "#";
+for (k = 0; k < 3; k++) {
+    color += ("0" + (Math.random()*256|0).toString(16)).substr(-2);
+}
+```
+
+**Link to work:**
+Nothing to see here.
