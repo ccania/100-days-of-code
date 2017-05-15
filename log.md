@@ -128,3 +128,12 @@ for (k = 0; k < 3; k++) {
 
 **Link to work:**
 Nothing to see here.
+
+### Day 14: May 14, 2017 
+
+**Today's Progress**: Tonight I continued to work through Free Code Camp's front end developer certificate. I have finished with jQuery and will begin JavaScript next. 
+
+**Thoughts:** Feeling positive about my 14 day streak, and considering a night off this week.
+
+**Link to work:**
+Nothing to see here.
