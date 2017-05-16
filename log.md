@@ -137,3 +137,12 @@ Nothing to see here.
 
 **Link to work:**
 Nothing to see here.
+
+### Day 15: May 15, 2017 
+
+**Today's Progress**: I launched a Codepen account and began working on my first Free Code Camp project, a tribute page. Although this is somewhat of a simplistic project, I have been looking for an excuse to use Codepen. I thought I'd make a web template for a bio page instead of writing an actual tribute to someone. I should have something to show by tomorrow night.
+
+**Thoughts:** After I make it through this busy week, I plan to re-orient my code-learning strategies. I feel like I'm jumping around from project-to-project, and that it would be beneficial to focus on something more purposeful. I plan to continue through Free Code Camp's JavaScript section, but I would really like a bit more of a challenge.  
+
+**Link to work:**
+[Tribute page in-progress](https://codepen.io/ccania/full/dWKBZE/)
