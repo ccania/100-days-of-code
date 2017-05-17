@@ -146,3 +146,12 @@ Nothing to see here.
 
 **Link to work:**
 [Tribute page in-progress](https://codepen.io/ccania/full/dWKBZE/)
+
+### Day 16: May 16, 2017 
+
+**Today's Progress**: I finished my tribute page. It utilizes Bootstrap and consists of a fluid width jumbotron header, and cards for a bio image and sections for childhood, education and training, and work and accomplishments.
+
+**Thoughts:** I'm tempted to replace Bootstrap with Materialize and add some icons to jazz this up.
+
+**Link to work:**
+[Tribute page in-progress](https://codepen.io/ccania/full/dWKBZE/)
