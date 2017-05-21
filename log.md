@@ -155,3 +155,12 @@ Nothing to see here.
 
 **Link to work:**
 [Tribute page in-progress](https://codepen.io/ccania/full/dWKBZE/)
+
+### Day 17: May 20, 2017 
+
+**Today's Progress**: Uh-oh, I skipped a few days. My excuse: I've spent the last three days moving into a new house. Tonight I worked a bit on learning how to debug a Cordova app. I also learned more about how to leverage the console with JavaScript. My app functions initialize on "deviceready"; I learned that I can trigger the function by calling it directly in the console. I also learned how to access my Android emulator using Chrome dev tools.
+
+**Thoughts:** Once you skip one day, it's very easy to skip another, and another, and so on... I would like to investigate more debugging tutorials for using Chrome dev tools. 
+
+**Link to work:**
+Nothing to see here.
