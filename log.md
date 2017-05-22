@@ -164,3 +164,12 @@ Nothing to see here.
 
 **Link to work:**
 Nothing to see here.
+
+### Day 18: May 21, 2017 
+
+**Today's Progress**: I began working on the JavaScript portion of Free Code Camp's front end developer cert. 
+
+**Thoughts:** Still trying to get back into my routine after taking a few days off.
+
+**Link to work:**
+Nothing to see here.
