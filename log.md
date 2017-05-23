@@ -173,3 +173,10 @@ Nothing to see here.
 
 **Link to work:**
 Nothing to see here.
+
+### Day 19: May 22, 2017 
+
+**Today's Progress**: I continued working through Free Code Camp's JavaScript tutorial.
+
+**Thoughts:** I am finding that I am more motivated to code when I'm working on a real project versus tutorial work, so I plan to find a few projects to work on over the next 60 days. I plan to continue working on my Cordova app next.
+
