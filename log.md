@@ -180,3 +180,9 @@ Nothing to see here.
 
 **Thoughts:** I am finding that I am more motivated to code when I'm working on a real project versus tutorial work, so I plan to find a few projects to work on over the next 60 days. I plan to continue working on my Cordova app next.
 
+### Day 20: May 23, 2017 
+
+**Today's Progress**: I added the splash page plugin to my Cordova app and tested a splach page and icon.
+
+**Thoughts:** I expected this to be a bit more difficult than it was. What was most challening was targeting all the various sizes of the icons and splash pages. I used Android Studio to create my icons, and just created on low density size splash page for now. I'll work on a better design before showing off this work. 
+
