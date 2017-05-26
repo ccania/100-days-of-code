@@ -186,3 +186,11 @@ Nothing to see here.
 
 **Thoughts:** I expected this to be a bit more difficult than it was. What was most challening was targeting all the various sizes of the icons and splash pages. I used Android Studio to create my icons, and just created on low density size splash page for now. I'll work on a better design before showing off this work. 
 
+### Day 21: May 25, 2017 
+
+**Today's Progress**: I finished up my practice app and signed and released an apk.
+
+**Thoughts:** I've enjoyed working with Cordova and using the Android Studio emulator. There are so many tools out there that simplify mobile app development, and I feel there are lots of opportunities for building fun things in the mobile app world. Next, I'd like to learn Ionic and Angular. Of course, I could probably use a lot more practice with Cordova as well :-)
+
+**Link to work:**
+
