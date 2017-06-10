@@ -197,7 +197,7 @@ Nothing to see here.
 
 ### Day 22: June 9, 2017
 
-**Today's Progress**: I am continuing to work through Free Code Camp's front end developer tutorial. I am halfway through the JavaScript activities. I just finished covereing if, else if statements, the Golf Code problem. 
+**Today's Progress**: I am continuing to work through Free Code Camp's front end developer tutorial. I am halfway through the JavaScript activities. I just finished covering "if, else if" statements, specifically the Golf Code problem. 
 
 ```
 function golfScore(par, strokes) {
