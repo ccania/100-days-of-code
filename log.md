@@ -195,3 +195,28 @@ Nothing to see here.
 **Link to work:**
 [App screenshots and files](https://github.com/ccania/100-days-of-code/tree/master/cordova-app)
 
+### Day 22: June 9, 2017
+
+**Today's Progress**: I am continuing to work through Free Code Camp's front end developer tutorial. I am halfway through the JavaScript activities. I just finished covereing if, else if statements, the Golf Code problem. 
+
+```
+function golfScore(par, strokes) {
+  if (strokes == 1) {
+    return "Hole-in-one!";
+  } else if (strokes <= par -2) {
+    return "Eagle";
+  } else if (strokes == par - 1) {
+    return "Birdie"; 
+  } else if (strokes == par) {
+    return "Par";    
+  } else if (strokes == par + 1) {
+    return "Bogey";
+  } else if (strokes == par + 2) {
+    return "Double Bogey";
+  } else if (strokes >= par + 3) {
+    return "Go Home!";
+  }
+}
+golfScore(4, 2);
+```
+**Thoughts:** I'm getting back into the swing of my challenge after taking time off to move into our new house. I'm going to continue with the Free Code Camp JavaScript tutorial until completed, and then maybe pick up the [#JavaScript30](https://javascript30.com/) VanillaJS tutorial or an ionic/Angular tutorial. 
