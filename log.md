@@ -220,3 +220,17 @@ function golfScore(par, strokes) {
 golfScore(4, 2);
 ```
 **Thoughts:** I'm getting back into the swing of my challenge after taking time off to move into our new house. I'm going to continue with the Free Code Camp JavaScript tutorial until completed, and then maybe pick up the [#JavaScript30](https://javascript30.com/) VanillaJS tutorial or an ionic/Angular tutorial. 
+
+### Day 23: June 10, 2017
+
+**Today's Progress**: I began working on a mini-project to build a Twitter profile prompt form. It will be a form using html5 input elements. The content that is entered into the fields will populate a text area that serves as a user's Twitter bio. The text will be capped and warn at the 160 character limit. I have begun desiging the html component and css style of the form. I'm planning on using html5 boilerplate and Bootstrap. I was conisdering integrating with a JS form validation plugin, and will need to use JS to concatenate and return text entered into the inputs. 
+
+**Thoughts**: I really enjoy the process of taking an idea to development. It's a powerful feeling to see ideas come to life as something useful and functional. 
+
+**Link to work**: [My Twitter profile prompt files will live here](https://github.com/ccania/100-days-of-code/tree/master/profile-prompt)
+
+### Day 24: June 11, 2017
+
+**Today's Progress** Today I begin my final class for my master's degree in information and communication technology (web development and design) through the University of Denver: Web scripting with JavaScript. Next fall I will complete my applied capstone project, and will have fulfilled all my requirements to graduate. Yay, me!
+
+**Thoughts**: Even the smallest work completed towards a goal amounts to something meaningful in time. 
