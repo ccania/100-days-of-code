@@ -20,6 +20,7 @@
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+   
 </head>
 
 <body>
@@ -38,72 +39,67 @@
         </head>
 <div class="row">
         <aside class="col">
-            <form>
+            <form id="prompts">
                 <div class="form-group">
                 <label for="beliefs">I believe in:</label>
-                <input type="text" id="beliefs" class="form-control">
+                <input type="text" name="beliefs" class="form-control prompts">
                 <br>
                 <label for="quotes">My favorite pithy quote is:</label>
-                <input type="text" id="quotes" class="form-control">
+                <input type="text" name="quotes" class="form-control prompts">
                 <br>
                 <label for="hobbies">My favorite hobby or interest:</label>
-                <input id="hobbies" class="form-control">
+                <input name="hobbies" class="form-control prompts">
                 <br>
                 <label for="title">My job title or role:</label>
-                <input id="title" class="form-control">
+                <input name="title" class="form-control prompts">
                 <br>
                 <label for="pastTitle">My past job title or role was:</label>
-                <input id="pstTitle" class="form-control">
+                <input name="pastTitle" class="form-control prompts">
                 <br>
                 <label for="aspiring">Aspiring:</label>
-                <input id="aspiring" class="form-control">
+                <input name="aspiring" class="form-control prompts">
                 <br>
                 </div>
                 <div class="form-group">
 
                 <label for="pursuit"></label>My greatest pursuit was:
-                <input id="pursiot" class="form-control">
+                <input id="prompts7" class="form-control prompts">
                 <br>
                 <label for="accomplish"></label>I accomplished:
-                <input id="accomplish" class="form-control">
+                <input id="prompts8" class="form-control prompts">
                 <br>
                 <label for="won"></label>I won:
-                <input id="won" class="form-control">
+                <input id="prompts9" class="form-control prompts">
                 <br>
                 <label for="publish"></label>I published:
-                <input id="publish" class="form-control">
+                <input id="prompts10" class="form-control prompts">
                 <br>
                 <label for="awards"></label>I was awarded:
-                <input id="awards" class="form-control">
+                <input id="prompts11" class="form-control prompts">
                 <br>
                 <label for="goal"></label>My current goal is:
-                <input id="goal" class="form-control">
+                <input id="prompts12" class="form-control prompts">
                 <br>
                 <label for="lifestage"></label>At this point in my life I:
-                <input id="lifestage" class="form-control">
+                <input id="prompts13" class="form-control prompts">
                 <br>
                 <label for="alma"></label>My alma mater is:
-                <input id="alma" class="form-control">
+                <input id="prompts14" class="form-control prompts">
                 </div>
                 <div class="form-group">
                 <label for="likes"></label>I really like:
-                <input id="likes" class="form-control">
+                <input id="prompts15" class="form-control prompts">
                 <br>
                 <label for="so"></label>I'm so:
-                <input id="so" class="form-control">
+                <input id="prompts16" class="form-control prompts">
                 <br>
                 <label for="emoji"></label>Emoji:
-                <input id="emoji" class="form-control">
+                <input id="prompts17" class="form-control prompts">
                 <br>
                 <label for="sign"></label>Astrosign:
-                <input id="sign" class="form-control">
-                <div class="form-check">
-                    <label class="form-check-lable" for="fSlash"> / </label><input class="form-check-input" type="radio" id="fSlash"><br>
-                     <label class="form-check-lable" for="comma"> , </label><input class="form-check-input" type="radio" id="comma"><br>
-                     <label class="form-check-lable" for="pipe"> | </label><input class="form-check-input" type="radio" id="pipe"><br>
-                    <label class="form-check-lable" for="star"> * </label><input class="form-check-input" type="radio" id="star">
-                    
-                    </div>    
+                <input id="prompts18" class="form-control prompts">
+            
+                <button value="submit" onclick="genBio()">Submit</button>
                 
 </div>
 
@@ -111,13 +107,13 @@
             <p>Tips</p>
             <ul>
                 <li>Use hashtags and keywords to get noticed</li>
-                <li>Mention the hands (@userid)of any companies you work for or organizations you represent.</li>
+                <li>Mention the hands (@userid) of any companies you work for or organizations you represent.</li>
             </ul>
         </aside>
         <aside class="col">
             <div>
-                <label for="bio">Your preview will display here.</label>
-                <textarea maxlength="160" id="bio" class="form-control"></textarea>
+                <label for="twitBio">Your preview will display here.</label>
+                <textarea maxlength="160" id="twitBio" class="form-control" name="twitBio"></textarea>
             </div>
         </aside>
         </div>
@@ -127,9 +123,9 @@
         window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')
     </script>
     <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+     <script src="js/main.js"></script>
 
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
     <script>
         (function (b, o, i, l, e, r) {
             b.GoogleAnalyticsObject = l;
@@ -145,7 +141,7 @@
         }(window, document, 'script', 'ga'));
         ga('create', 'UA-XXXXX-X', 'auto');
         ga('send', 'pageview');
-    </script>
+    </script> -->
                     </div>
 </body>
 

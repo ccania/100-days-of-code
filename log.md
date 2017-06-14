@@ -231,6 +231,14 @@ golfScore(4, 2);
 
 ### Day 24: June 11, 2017
 
-**Today's Progress** Today I begin my final class for my master's degree in information and communication technology (web development and design) through the University of Denver: Web scripting with JavaScript. Next fall I will complete my applied capstone project, and will have fulfilled all my requirements to graduate. Yay, me!
+**Today's Progress**: Today I begin my final class for my master's degree in information and communication technology (web development and design) through the University of Denver: Web scripting with JavaScript. Next fall I will complete my applied capstone project, and will have fulfilled all my requirements to graduate. Yay, me!
 
 **Thoughts**: Even the smallest work completed towards a goal amounts to something meaningful in time. 
+
+### Day 25: June 13, 2017
+
+**Today's Progress**: For the last couple of days I have been working on a Twitter bio generator that consists of a series of inputs that serve as prompts. How I intend it to work is that filling in the prompts generates a 160 character bio. The output will warn when the user exceeds 160 characters. The input fields will need to save the entered data so that the user can easily change it. So far I have a series of test fields (better prompts to be finessed later), and a submit button. I'd like the output to be written into a plain textbox so that users can copy and paste into their Twitter bio. It's a work in progress. 
+
+**Thoughts**: I'm going to step back from my Twitter bio generator and research the best ways to collect the input data and write it to a text box. I'll look at other similar generators to see how they are done. I'm also recognizing that I will need to fine-tune the content of this form to make it actually useful, but since my overall goal is to practice JS, I'm going to prioritize making it work ahead of creating good content. In the real world, I feel that content should always be prioritized in any web project. I'm curious as to how my priorities might change the farther down the front-end dev road I travel. 
+
+**Link to work**: [My Twitter profile prompt files will live here](https://github.com/ccania/100-days-of-code/tree/master/profile-prompt)
