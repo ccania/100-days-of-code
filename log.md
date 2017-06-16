@@ -242,3 +242,9 @@ golfScore(4, 2);
 **Thoughts**: I'm going to step back from my Twitter bio generator and research the best ways to collect the input data and write it to a text box. I'll look at other similar generators to see how they are done. I'm also recognizing that I will need to fine-tune the content of this form to make it actually useful, but since my overall goal is to practice JS, I'm going to prioritize making it work ahead of creating good content. In the real world, I feel that content should always be prioritized in any web project. I'm curious as to how my priorities might change the farther down the front-end dev road I travel. 
 
 **Link to work**: [My Twitter profile prompt files will live here](https://github.com/ccania/100-days-of-code/tree/master/profile-prompt)
+
+### Day 26: June 15, 2017
+
+**Today's Progress**: I continued to work through Free Code Camp's JavaScript tutorial. I'm more than 2/3rds through. I'm researching the next app technology that I will learn; Maybe Ionic? Maybe React? Between thinking about my grad school capstone project and my JavaScript class, I have a lot of JS ground to cover. 
+
+**Thoughts**: The more I learn, the more I realize I don't know anything.
